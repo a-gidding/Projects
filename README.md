@@ -12,6 +12,9 @@ So many things. I am so busy all the time
 
 ## Project Ideas: 
 Moreso, for myself, I have a list of items:
+
 A predictive model that will analyze previous Oscar Best Picture winners and use that to predict the 2027 Oscar Winner
+
 A model that maybe analyzes overall funding for projects from a NGO or non profit and determines their overall financial efficiency
+
 Marketing model ~ need to see what that can look like
