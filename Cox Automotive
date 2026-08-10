@@ -1,0 +1,14 @@
+I would like to recreate the dashboard that I made for them, but using fake data
+
+I may use items such as my student assistants names, friend's names, etc. 
+
+This page will need to show:
+
+"Supervisor" name
+
+Bar graph with attendance compared to quiz completion
+
+Pie chart with total attendees by job title
+
+Table with attendee name, total attendees, total team count, percentage of team attended, and yes or no for quiz completion
+
